@@ -8,7 +8,7 @@ https://towardsdatascience.com/snake-played-by-a-deep-reinforcement-learning-age
 
 To run the code from the command line:
 	
-	python3 snakeGamePart1.py [Optional: -FPS=] [Optional: -iterations=]
+	python3 snakeGame.py [Optional: -FPS=] [Optional: -iterations=]
 	
 You should also pip install pygame if necessary:
 	
