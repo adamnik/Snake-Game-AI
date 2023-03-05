@@ -1,7 +1,5 @@
 Snake Game with Reinforcement Learning (Approximate Q-Learning)
 
-Algorithm for Q-Learning adapted from Dave Musicant Black Jack assignment.
-
 Idea for game states adapted from "Snake Played by a Deep Reinforcement Learning Agent" by
 Hennie de Harder:
 https://towardsdatascience.com/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36
